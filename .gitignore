@@ -3,7 +3,6 @@ data/
 databases/
 retrieval-db/database_scale_experiments/*.index
 retrieval-db/database_scale_experiments/*.index.trained
-retrieval-db/
 retrieval-db/esm-2/*.index
 retrieval-db/esm-2/*.index.trained
 retrieval-db/esm-2/esm-2_vectors/*
